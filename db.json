@@ -1,5 +1,4 @@
 {
-    {
             id: 1,
             serviceTitle: 'Hotel San Ignacio',
             serviceDescription: 'El mejor hotel para pasar la navidad es este',
@@ -47,4 +46,3 @@
             urlImg: 'https://via.placeholder.com/600/24f355',
             starAverage: 4.5,
         },
-}
