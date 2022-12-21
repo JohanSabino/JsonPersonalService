@@ -1,48 +1,53 @@
 {
-            id: 1,
-            serviceTitle: 'Hotel San Ignacio',
-            serviceDescription: 'El mejor hotel para pasar la navidad es este',
-            serviceValue: 35,
-            urlImg: 'https://via.placeholder.com/600/92c952',
-            starAverage: 4.2,
+    "items": [
+        {
+            "id": 1,
+            "serviceTitle": "Hotel San Ignacio",
+            "serviceDescription": "El mejor hotel para pasar la navidad es este",
+            "serviceValue": 35,
+            "urlImg": "https://via.placeholder.com/600/92c952",
+            "starAverage": 4.2
         },
         {
-            id: 2,
-            serviceTitle: 'Hotel La última lágrima',
-            serviceDescription: 'El mejor hotel para pasar la el día es este.',
-            serviceValue: 45,
-            urlImg: 'https://via.placeholder.com/600/771796',
-            starAverage: 4.5,
+            "id": 2,
+            "serviceTitle": "Hotel La última lágrima",
+            "serviceDescription": "El mejor hotel para pasar la el día es este.",
+            "serviceValue": 45,
+            "urlImg": "https://via.placeholder.com/600/771796",
+            "starAverage": 4.5
         },
         {
-            id: 3,
-            serviceTitle: 'Hotel tu mejor noche',
-            serviceDescription: 'El mejor hotel para pasar la noche es este.',
-            serviceValue: 12,
-            urlImg: 'https://via.placeholder.com/600/24f355',
-            starAverage: 4.4,
+            "id": 3,
+            "serviceTitle": "Hotel tu mejor noche",
+            "serviceDescription": "El mejor hotel para pasar la noche es este.",
+            "serviceValue": 12,
+            "urlImg": "https://via.placeholder.com/600/24f355",
+            "starAverage": 4.4
         },
         {
-            id: 4,
-            serviceTitle: 'Hotel la cariñosa',
-            serviceDescription: 'El mejor hotel... pruébanos',
-            serviceValue: 33,
-            urlImg: 'https://via.placeholder.com/600/92c952',
-            starAverage: 4.9,
+            "id": 4,
+            "serviceTitle": "Hotel la cariñosa",
+            "serviceDescription": "El mejor hotel... pruébanos",
+            "serviceValue": 33,
+            "urlImg": "https://via.placeholder.com/600/92c952",
+            "starAverage": 4.9
         },
         {
-            id: 5,
-            serviceTitle: 'Hotel California',
-            serviceDescription: 'El mejor hotel del desierto',
-            serviceValue: 44,
-            urlImg: 'https://via.placeholder.com/600/771796',
-            starAverage: 5.0,
+            "id": 5,
+            "serviceTitle": "Hotel California",
+            "serviceDescription": "El mejor hotel del desierto",
+            "serviceValue": 44,
+            "urlImg": "https://via.placeholder.com/600/771796",
+            "starAverage": 5.0
         },
         {
-            id: 6,
-            serviceTitle: 'Hotel Bates',
-            serviceDescription: 'El mejor hotel para vivir una aventura',
-            serviceValue: 76,
-            urlImg: 'https://via.placeholder.com/600/24f355',
-            starAverage: 4.5,
-        },
+            "id": 6,
+            "serviceTitle": "Hotel Bates",
+            "serviceDescription": "El mejor hotel para vivir una aventura",
+            "serviceValue": 76,
+            "urlImg": "https://via.placeholder.com/600/24f355",
+            "starAverage": 4.5
+        }
+    ]
+}
+
